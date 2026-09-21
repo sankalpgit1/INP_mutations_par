@@ -1,6 +1,6 @@
 ; Run control
 integrator  = md         ; leap-frog integrator
-nsteps      = 2500000  ; 250000000 * 0.002 ps = 500000 ps (500 ns)
+nsteps      = 2500000  ; 2500000 * 0.002 ps = 5000 ps (5 ns)
 dt          = 0.002      ; 2 fs
 
 ; Output control
