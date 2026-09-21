@@ -1,0 +1,1 @@
+This repository contains an all-atom molecular dynamics simulation of ice nucleating protein and its mutant variants at 260K using TIP4P/Ice water model and CHARMM36m forcefield, performed using gromacs-2022.5
